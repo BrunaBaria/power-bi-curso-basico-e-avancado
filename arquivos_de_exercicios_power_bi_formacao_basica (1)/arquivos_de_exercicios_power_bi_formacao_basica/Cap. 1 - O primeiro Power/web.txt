@@ -1,0 +1,14 @@
+Importação da WEB
+
+Formulas do Excel
+https://support.microsoft.com/pt-br/office/fun%C3%A7%C3%B5es-do-excel-ordem-alfab%C3%A9tica-b3944572-255d-4efb-bb96-c6d90033e188
+
+****************************************************************************************************************************************
+Desafio proposto: Importar o site do IGPM com os resultados 2024
+IGPM 2024
+https://portal.fgv.br/noticias/igp-m-resultados-2024
+ *******************************************************************************************************************************
+
+Este arquivo será utilizado nos modulos posteriores
+Logo linkedIn
+https://brand.linkedin.com/downloads
